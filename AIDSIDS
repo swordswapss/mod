@@ -1,1 +1,2 @@
-
+local Commands = {}
+local Admins = {104980057, 1824853989}
